@@ -54,7 +54,7 @@ A movie recommender system built using machine learning and a content-based reco
 ![UI Screenshot 1](assets/reommanded-image.png)
 *Here is a screenshot showing the user interface of the movie recommendation system.*
 
-![UI Screenshot 2](assets/assets/movierecommend.png)
+![UI Screenshot 2](assets/movierecommend.png)
 *Another screenshot displaying a list of recommended movies based on the user's selection.*
 
 
